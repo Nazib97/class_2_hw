@@ -1,0 +1,85 @@
+body{
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+.background{
+	background-color:#312f44;
+	color: white;
+	padding-bottom: 50px;
+} 
+.container{
+	width: 600px;
+	margin: 0 auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.logo{
+	width: 200px;
+	margin-bottom: 40px;
+}
+.shape{
+	display: block;
+	margin: auto;
+}
+.shapearrow{
+	width: 100px;
+	display: block;
+	margin: auto;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 0;
+    margin-bottom: -22px;
+    text-transform: uppercase;
+    font-style: oblique;
+    font-weight: 900;
+    line-height: 1.2;
+}
+.btn {
+    color: white;
+    background: orange;
+    padding: 20px 40px;
+    display: inline-block;
+    margin: 40px 0;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 25px;
+    text-decoration: none;
+    letter-spacing: 1px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 30px 0 black;
+    background: rgb(255,165,0);
+    background: linear-gradient(153deg, rgba(255,165,0,1) 0%, rgba(184,131,35,1) 100%);
+}
+.search {
+    margin: 30px 0;
+    width: 80%;
+}
+p{}
+.green {
+    color: #4acc9a;
+}
+.red {
+    color: orange;
+}
+.post_box{
+width: 900px;
+margin: auto;
+display: flex;
+
+}
+.post {
+    padding: 40px 25px;
+    border: 2px dashed orange;
+    width: 50%;
+}
+.post p{
+	font-size: 18px;
+	margin: 0;
+	margin-bottom: 10px;
+}
+post h2{
+	margin: 0;
+}
